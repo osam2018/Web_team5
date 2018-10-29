@@ -1,0 +1,35 @@
+{
+  "list2":["data1","data2","data3"],
+  "step_text2":[
+    {
+      "step": 1,
+      "title": "공군자료교환체계 서버 다운",
+      "text": "공군 체계 담당자 연락 : ㅁㅁㅁ 000-0000-0000"
+    }, {
+      "step": 2,
+      "title": "담당자 인스턴스 재기동",
+      "text": "o11,o21 재기동"
+    }, {
+      "step": 3,
+      "title": "덤프 확인",
+      "text": "3단계에서 할일",
+      "comment": [{
+        "name": "상사 ㅇㅇㅇ",
+        "enrolledDate": "18-10-11",
+        "content": "완료까지 5분전"
+      },{
+        "name": "하사 김박이",
+        "enrolledDate": "18-10-11",
+        "content": "확인"
+      }]
+    },{
+    "step": 4,
+      "title": "상황종료",
+      "text": "재기동 완료 및 로그분석 완료",
+      "comment": [{
+        "name": "대위 홍길동",
+        "enrolledDate": "18-10-11",
+        "content": "수고하셨습니다."
+      }]
+    }]
+}
